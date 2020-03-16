@@ -1,6 +1,6 @@
 {
   "name": "first-svelte-app",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "scripts": {
     "start": "sirv public",
     "autobuild": "rollup -c -w",
